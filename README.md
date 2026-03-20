@@ -17,11 +17,11 @@ The app organizes problems into 9 progressive waves, from foundational easy prob
 - **Spaced repetition** — Three-tier confidence ratings (Nailed it / Got there / Had to learn) with interval-based review scheduling
 - **Built-in timer** — Tracks solve time per problem with auto-suggested confidence ratings based on difficulty benchmarks
 - **Progress dashboard** — Visual overview of completion, review schedule, and topic breakdown
-
-![LeetWave Dashboard](assets/dashboard.png)
 - **Cross-reference priority** — Problems recommended by more source lists are served first within each wave
 - **Direct LeetCode links** — One click to open any problem on LeetCode
 - **Local storage persistence** — All progress saved in your browser, no account needed
+
+![LeetWave Dashboard](assets/dashboard.png)
 
 ## Getting Started
 
