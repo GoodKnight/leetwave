@@ -14,7 +14,7 @@ export default function App() {
 
   return (
     <AppContext.Provider value={{ ...problemsState, timer: timerState, showCompletionModal, setShowCompletionModal }}>
-      <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<RoadmapView />} />
