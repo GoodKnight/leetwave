@@ -60,7 +60,8 @@
       "topicOrder": 1,
       "roadmapOrder": 1,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=G0_I-ZF0S38"
     },
     {
       "id": 2,
@@ -86,7 +87,8 @@
       "topicOrder": 1,
       "roadmapOrder": 2,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=1pkOgXD63yU"
     },
     {
       "id": 3,
@@ -111,7 +113,8 @@
       "topicOrder": 1,
       "roadmapOrder": 3,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=WTzjTskDFMg"
     },
     {
       "id": 4,
@@ -136,7 +139,8 @@
       "topicOrder": 2,
       "roadmapOrder": 4,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=XIdigk956u0"
     },
     {
       "id": 5,
@@ -162,7 +166,8 @@
       "topicOrder": 3,
       "roadmapOrder": 5,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=gBTe7lFR3vc"
     },
     {
       "id": 6,
@@ -187,7 +192,8 @@
       "topicOrder": 1,
       "roadmapOrder": 6,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=9UtInBqnCgA"
     },
     {
       "id": 7,
@@ -211,7 +217,8 @@
       "topicOrder": 1,
       "roadmapOrder": 7,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=jJXJ16kPFWg"
     },
     {
       "id": 8,
@@ -235,7 +242,8 @@
       "topicOrder": 2,
       "roadmapOrder": 8,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=KLlXCFG5TnA"
     },
     {
       "id": 9,
@@ -258,7 +266,8 @@
       "topicOrder": 3,
       "roadmapOrder": 9,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=3OamzN90kPg"
     },
     {
       "id": 10,
@@ -281,7 +290,8 @@
       "topicOrder": 2,
       "roadmapOrder": 10,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=99RVfqklbCE"
     },
     {
       "id": 11,
@@ -305,7 +315,8 @@
       "topicOrder": 4,
       "roadmapOrder": 11,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=7pnhv842keE"
     },
     {
       "id": 12,
@@ -327,7 +338,8 @@
       "topicOrder": 1,
       "roadmapOrder": 12,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=s4DPM8ct1pI"
     },
     {
       "id": 13,
@@ -349,7 +361,8 @@
       "topicOrder": 5,
       "roadmapOrder": 13,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 14,
@@ -371,7 +384,8 @@
       "topicOrder": 2,
       "roadmapOrder": 14,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 15,
@@ -394,7 +408,8 @@
       "topicOrder": 4,
       "roadmapOrder": 15,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=A2_ldqM4QcY"
     },
     {
       "id": 16,
@@ -415,7 +430,8 @@
       "topicOrder": 3,
       "roadmapOrder": 16,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=FPCZsG_AkUg"
     },
     {
       "id": 17,
@@ -436,7 +452,8 @@
       "topicOrder": 2,
       "roadmapOrder": 17,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=K-RYzDZkzCI"
     },
     {
       "id": 18,
@@ -457,7 +474,8 @@
       "topicOrder": 5,
       "roadmapOrder": 18,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=p10f-VpO4nE"
     },
     {
       "id": 19,
@@ -478,7 +496,8 @@
       "topicOrder": 3,
       "roadmapOrder": 19,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 20,
@@ -499,7 +518,8 @@
       "topicOrder": 6,
       "roadmapOrder": 20,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=3jdxYj3DD98"
     },
     {
       "id": 21,
@@ -520,7 +540,8 @@
       "topicOrder": 7,
       "roadmapOrder": 21,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=JoF0Z7nVSrA"
     },
     {
       "id": 22,
@@ -541,7 +562,8 @@
       "topicOrder": 8,
       "roadmapOrder": 22,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=0sWShKIJoo4"
     },
     {
       "id": 23,
@@ -562,7 +584,8 @@
       "topicOrder": 9,
       "roadmapOrder": 23,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 25,
@@ -582,7 +605,8 @@
       "topicOrder": 10,
       "roadmapOrder": 24,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 30,
@@ -602,7 +626,8 @@
       "topicOrder": 11,
       "roadmapOrder": 25,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 31,
@@ -622,7 +647,8 @@
       "topicOrder": 4,
       "roadmapOrder": 26,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=_d0T_2Lk2qA"
     },
     {
       "id": 32,
@@ -642,7 +668,8 @@
       "topicOrder": 12,
       "roadmapOrder": 27,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=G9xeB2-7PqY"
     },
     {
       "id": 33,
@@ -662,7 +689,8 @@
       "topicOrder": 2,
       "roadmapOrder": 28,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=Id_tqGdsZQI"
     },
     {
       "id": 34,
@@ -682,7 +710,8 @@
       "topicOrder": 4,
       "roadmapOrder": 29,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=Cg_wWPHJ2Sk"
     },
     {
       "id": 42,
@@ -699,7 +728,8 @@
       "topicOrder": 13,
       "roadmapOrder": 30,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=aayNRwUN3Do"
     },
     {
       "id": 43,
@@ -716,7 +746,8 @@
       "topicOrder": 14,
       "roadmapOrder": 31,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=2pndAmo_sMA"
     },
     {
       "id": 44,
@@ -733,7 +764,8 @@
       "topicOrder": 15,
       "roadmapOrder": 32,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=8i-f24YFWC4"
     },
     {
       "id": 45,
@@ -750,7 +782,8 @@
       "topicOrder": 16,
       "roadmapOrder": 33,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 46,
@@ -767,7 +800,8 @@
       "topicOrder": 17,
       "roadmapOrder": 34,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=l-VLzZ2riTc"
     },
     {
       "id": 47,
@@ -784,7 +818,8 @@
       "topicOrder": 18,
       "roadmapOrder": 35,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=LECWOvTo-Sc"
     },
     {
       "id": 48,
@@ -801,7 +836,8 @@
       "topicOrder": 19,
       "roadmapOrder": 36,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=i5I_wrbUdzM"
     },
     {
       "id": 49,
@@ -818,7 +854,8 @@
       "topicOrder": 20,
       "roadmapOrder": 37,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 50,
@@ -835,7 +872,8 @@
       "topicOrder": 21,
       "roadmapOrder": 38,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=ZGxqqjljpUI"
     },
     {
       "id": 51,
@@ -852,7 +890,8 @@
       "topicOrder": 22,
       "roadmapOrder": 39,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 52,
@@ -869,7 +908,8 @@
       "topicOrder": 23,
       "roadmapOrder": 40,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 53,
@@ -886,7 +926,8 @@
       "topicOrder": 24,
       "roadmapOrder": 41,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=u89i60lYx8U"
     },
     {
       "id": 54,
@@ -903,7 +944,8 @@
       "topicOrder": 25,
       "roadmapOrder": 42,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=a4wqKR-znBE"
     },
     {
       "id": 55,
@@ -920,7 +962,8 @@
       "topicOrder": 26,
       "roadmapOrder": 43,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 56,
@@ -937,7 +980,8 @@
       "topicOrder": 27,
       "roadmapOrder": 44,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=P1Ic85RarKY"
     },
     {
       "id": 57,
@@ -954,7 +998,8 @@
       "topicOrder": 28,
       "roadmapOrder": 45,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=Pcd1ii9P9ZI"
     },
     {
       "id": 58,
@@ -971,7 +1016,8 @@
       "topicOrder": 29,
       "roadmapOrder": 46,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=DEJAZBq0FDA"
     },
     {
       "id": 59,
@@ -988,7 +1034,8 @@
       "topicOrder": 30,
       "roadmapOrder": 47,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=KT9rltZTybQ"
     },
     {
       "id": 60,
@@ -1005,7 +1052,8 @@
       "topicOrder": 31,
       "roadmapOrder": 48,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=7yF-U1hLEqQ"
     },
     {
       "id": 61,
@@ -1022,7 +1070,8 @@
       "topicOrder": 32,
       "roadmapOrder": 49,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=W_akoecmCbM"
     },
     {
       "id": 62,
@@ -1039,7 +1088,8 @@
       "topicOrder": 33,
       "roadmapOrder": 50,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=ypn0aZ0nrL4"
     },
     {
       "id": 63,
@@ -1056,7 +1106,8 @@
       "topicOrder": 5,
       "roadmapOrder": 51,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=k2qrymM_DOo"
     },
     {
       "id": 65,
@@ -1073,7 +1124,8 @@
       "topicOrder": 3,
       "roadmapOrder": 52,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": null
     },
     {
       "id": 66,
@@ -1090,7 +1142,8 @@
       "topicOrder": 5,
       "roadmapOrder": 53,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=xW4QsTtaCa4"
     },
     {
       "id": 67,
@@ -1107,7 +1160,8 @@
       "topicOrder": 6,
       "roadmapOrder": 54,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=JI71sxtHTng"
     },
     {
       "id": 68,
@@ -1124,7 +1178,8 @@
       "topicOrder": 7,
       "roadmapOrder": 55,
       "wave": 1,
-      "waveName": "Foundations"
+      "waveName": "Foundations",
+      "neetcodeVideo": "https://youtube.com/watch?v=yOzXms1J6Nk"
     },
     {
       "id": 69,
@@ -1149,7 +1204,8 @@
       "topicOrder": 3,
       "roadmapOrder": 56,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=wiGpQwVHdE0"
     },
     {
       "id": 70,
@@ -1174,7 +1230,8 @@
       "topicOrder": 34,
       "roadmapOrder": 57,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=bNvIQI2wAjk"
     },
     {
       "id": 71,
@@ -1199,7 +1256,8 @@
       "topicOrder": 6,
       "roadmapOrder": 58,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=UuiTKBwPgAo"
     },
     {
       "id": 72,
@@ -1224,7 +1282,8 @@
       "topicOrder": 6,
       "roadmapOrder": 59,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=U8XENwh8Oy8"
     },
     {
       "id": 73,
@@ -1249,7 +1308,8 @@
       "topicOrder": 35,
       "roadmapOrder": 60,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=vzdNOK2oB2E"
     },
     {
       "id": 74,
@@ -1273,7 +1333,8 @@
       "topicOrder": 7,
       "roadmapOrder": 61,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=jzZsG8n2R9A"
     },
     {
       "id": 75,
@@ -1298,7 +1359,8 @@
       "topicOrder": 4,
       "roadmapOrder": 62,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=cTBiBSnjO3c"
     },
     {
       "id": 76,
@@ -1322,7 +1384,8 @@
       "topicOrder": 7,
       "roadmapOrder": 63,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=nIVW4P8b1VA"
     },
     {
       "id": 77,
@@ -1346,7 +1409,8 @@
       "topicOrder": 8,
       "roadmapOrder": 64,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=XVuQxVej6y8"
     },
     {
       "id": 78,
@@ -1370,7 +1434,8 @@
       "topicOrder": 36,
       "roadmapOrder": 65,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=P6RZZMu_maU"
     },
     {
       "id": 79,
@@ -1394,7 +1459,8 @@
       "topicOrder": 5,
       "roadmapOrder": 66,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=iu0082c4HDE"
     },
     {
       "id": 80,
@@ -1417,7 +1483,8 @@
       "topicOrder": 37,
       "roadmapOrder": 67,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=TjFXEUCMqI8"
     },
     {
       "id": 81,
@@ -1440,7 +1507,8 @@
       "topicOrder": 4,
       "roadmapOrder": 68,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=gqXU1UyA8pk"
     },
     {
       "id": 82,
@@ -1463,7 +1531,8 @@
       "topicOrder": 6,
       "roadmapOrder": 69,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=qkLl7nAwDPo"
     },
     {
       "id": 83,
@@ -1485,7 +1554,8 @@
       "topicOrder": 8,
       "roadmapOrder": 70,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=cQ1Oz4ckceM"
     },
     {
       "id": 84,
@@ -1508,7 +1578,8 @@
       "topicOrder": 38,
       "roadmapOrder": 71,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=YPTqKIgVk-k"
     },
     {
       "id": 85,
@@ -1530,7 +1601,8 @@
       "topicOrder": 39,
       "roadmapOrder": 72,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=B1k_sxOSgv8"
     },
     {
       "id": 86,
@@ -1553,7 +1625,8 @@
       "topicOrder": 7,
       "roadmapOrder": 73,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=s9fokUqJ76A"
     },
     {
       "id": 87,
@@ -1575,7 +1648,8 @@
       "topicOrder": 8,
       "roadmapOrder": 74,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=Ber2pi2C0j0"
     },
     {
       "id": 88,
@@ -1598,7 +1672,8 @@
       "topicOrder": 9,
       "roadmapOrder": 75,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=fu2cD_6E8Hw"
     },
     {
       "id": 89,
@@ -1621,7 +1696,8 @@
       "topicOrder": 9,
       "roadmapOrder": 76,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=wgFPrzTjm7s"
     },
     {
       "id": 90,
@@ -1644,7 +1720,8 @@
       "topicOrder": 10,
       "roadmapOrder": 77,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=7ABFKPK2hD4"
     },
     {
       "id": 91,
@@ -1666,7 +1743,8 @@
       "topicOrder": 5,
       "roadmapOrder": 78,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=aYqYMIqZx5s"
     },
     {
       "id": 92,
@@ -1688,7 +1766,8 @@
       "topicOrder": 6,
       "roadmapOrder": 79,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=UbyhOgBN834"
     },
     {
       "id": 93,
@@ -1710,7 +1789,8 @@
       "topicOrder": 10,
       "roadmapOrder": 80,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=U2SozAs9RzA"
     },
     {
       "id": 94,
@@ -1733,7 +1813,8 @@
       "topicOrder": 11,
       "roadmapOrder": 81,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=5Y2EiZST97Y"
     },
     {
       "id": 95,
@@ -1754,7 +1835,8 @@
       "topicOrder": 7,
       "roadmapOrder": 82,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 96,
@@ -1776,7 +1858,8 @@
       "topicOrder": 8,
       "roadmapOrder": 83,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=Pr6T-3yB9RM"
     },
     {
       "id": 97,
@@ -1798,7 +1881,8 @@
       "topicOrder": 12,
       "roadmapOrder": 84,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=S5bfdUTrKLM"
     },
     {
       "id": 98,
@@ -1819,7 +1903,8 @@
       "topicOrder": 40,
       "roadmapOrder": 85,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 99,
@@ -1840,7 +1925,8 @@
       "topicOrder": 41,
       "roadmapOrder": 86,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=Q2Tw6gcVEwc"
     },
     {
       "id": 100,
@@ -1857,7 +1943,8 @@
       "topicOrder": 42,
       "roadmapOrder": 87,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 101,
@@ -1874,7 +1961,8 @@
       "topicOrder": 43,
       "roadmapOrder": 88,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=qhBVWf0YafA"
     },
     {
       "id": 102,
@@ -1891,7 +1979,8 @@
       "topicOrder": 44,
       "roadmapOrder": 89,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=pGMsrvt0fpk"
     },
     {
       "id": 103,
@@ -1908,7 +1997,8 @@
       "topicOrder": 45,
       "roadmapOrder": 90,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=4xbWSRZHqac"
     },
     {
       "id": 104,
@@ -1925,7 +2015,8 @@
       "topicOrder": 46,
       "roadmapOrder": 91,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 105,
@@ -1942,7 +2033,8 @@
       "topicOrder": 47,
       "roadmapOrder": 92,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=kMzJy9es7Hc"
     },
     {
       "id": 106,
@@ -1959,7 +2051,8 @@
       "topicOrder": 48,
       "roadmapOrder": 93,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 107,
@@ -1976,7 +2069,8 @@
       "topicOrder": 49,
       "roadmapOrder": 94,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 108,
@@ -1993,7 +2087,8 @@
       "topicOrder": 50,
       "roadmapOrder": 95,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 109,
@@ -2010,7 +2105,8 @@
       "topicOrder": 51,
       "roadmapOrder": 96,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=G8xtZy0fDKg"
     },
     {
       "id": 110,
@@ -2027,7 +2123,8 @@
       "topicOrder": 52,
       "roadmapOrder": 97,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=fFVZt-6sgyo"
     },
     {
       "id": 111,
@@ -2044,7 +2141,8 @@
       "topicOrder": 53,
       "roadmapOrder": 98,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=mBk4I0X46oI"
     },
     {
       "id": 112,
@@ -2061,7 +2159,8 @@
       "topicOrder": 54,
       "roadmapOrder": 99,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=slYh0ZNEqSw"
     },
     {
       "id": 113,
@@ -2078,7 +2177,8 @@
       "topicOrder": 55,
       "roadmapOrder": 100,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=d4SPuvkaeoo"
     },
     {
       "id": 114,
@@ -2095,7 +2195,8 @@
       "topicOrder": 56,
       "roadmapOrder": 101,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 115,
@@ -2112,7 +2213,8 @@
       "topicOrder": 57,
       "roadmapOrder": 102,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 116,
@@ -2129,7 +2231,8 @@
       "topicOrder": 58,
       "roadmapOrder": 103,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 117,
@@ -2146,7 +2249,8 @@
       "topicOrder": 59,
       "roadmapOrder": 104,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=yYtaV0G3mWQ"
     },
     {
       "id": 118,
@@ -2163,7 +2267,8 @@
       "topicOrder": 60,
       "roadmapOrder": 105,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 119,
@@ -2180,7 +2285,8 @@
       "topicOrder": 61,
       "roadmapOrder": 106,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 120,
@@ -2197,7 +2303,8 @@
       "topicOrder": 62,
       "roadmapOrder": 107,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 121,
@@ -2214,7 +2321,8 @@
       "topicOrder": 63,
       "roadmapOrder": 108,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 122,
@@ -2231,7 +2339,8 @@
       "topicOrder": 64,
       "roadmapOrder": 109,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 123,
@@ -2248,7 +2357,8 @@
       "topicOrder": 65,
       "roadmapOrder": 110,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 124,
@@ -2265,7 +2375,8 @@
       "topicOrder": 66,
       "roadmapOrder": 111,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=ycAq8iqh0TI"
     },
     {
       "id": 125,
@@ -2282,7 +2393,8 @@
       "topicOrder": 67,
       "roadmapOrder": 112,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=BHr381Guz3Y"
     },
     {
       "id": 126,
@@ -2299,7 +2411,8 @@
       "topicOrder": 68,
       "roadmapOrder": 113,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 127,
@@ -2316,7 +2429,8 @@
       "topicOrder": 69,
       "roadmapOrder": 114,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=j4KwhBziOpg"
     },
     {
       "id": 128,
@@ -2333,7 +2447,8 @@
       "topicOrder": 70,
       "roadmapOrder": 115,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=ohBNdSJyLh8"
     },
     {
       "id": 129,
@@ -2350,7 +2465,8 @@
       "topicOrder": 8,
       "roadmapOrder": 116,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=kEfPSzgL-Ss"
     },
     {
       "id": 130,
@@ -2367,7 +2483,8 @@
       "topicOrder": 9,
       "roadmapOrder": 117,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 131,
@@ -2384,7 +2501,8 @@
       "topicOrder": 9,
       "roadmapOrder": 118,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=pRyFZIaKegA"
     },
     {
       "id": 132,
@@ -2401,7 +2519,8 @@
       "topicOrder": 10,
       "roadmapOrder": 119,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=LN7KjRszjk4"
     },
     {
       "id": 133,
@@ -2418,7 +2537,8 @@
       "topicOrder": 11,
       "roadmapOrder": 120,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=qB0zZpBJlh8"
     },
     {
       "id": 134,
@@ -2435,7 +2555,8 @@
       "topicOrder": 12,
       "roadmapOrder": 121,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=zZA5KskfMuQ"
     },
     {
       "id": 135,
@@ -2452,7 +2573,8 @@
       "topicOrder": 13,
       "roadmapOrder": 122,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=qYlHrAKJfyA"
     },
     {
       "id": 136,
@@ -2469,7 +2591,8 @@
       "topicOrder": 11,
       "roadmapOrder": 123,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=OKnm5oyAhWg"
     },
     {
       "id": 137,
@@ -2486,7 +2609,8 @@
       "topicOrder": 12,
       "roadmapOrder": 124,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=4sQL7R5ySUU"
     },
     {
       "id": 138,
@@ -2507,7 +2631,8 @@
       "topicOrder": 13,
       "roadmapOrder": 125,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=wjYnzkAhcNk"
     },
     {
       "id": 139,
@@ -2524,7 +2649,8 @@
       "topicOrder": 14,
       "roadmapOrder": 126,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=o811TZLAWOo"
     },
     {
       "id": 140,
@@ -2541,7 +2667,8 @@
       "topicOrder": 15,
       "roadmapOrder": 127,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 141,
@@ -2558,7 +2685,8 @@
       "topicOrder": 16,
       "roadmapOrder": 128,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 142,
@@ -2575,7 +2703,8 @@
       "topicOrder": 17,
       "roadmapOrder": 129,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=TGveA1oFhrc"
     },
     {
       "id": 143,
@@ -2592,7 +2721,8 @@
       "topicOrder": 18,
       "roadmapOrder": 130,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 144,
@@ -2609,7 +2739,8 @@
       "topicOrder": 19,
       "roadmapOrder": 131,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 145,
@@ -2626,7 +2757,8 @@
       "topicOrder": 20,
       "roadmapOrder": 132,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=doj95MelfSA"
     },
     {
       "id": 146,
@@ -2643,7 +2775,8 @@
       "topicOrder": 21,
       "roadmapOrder": 133,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=RF_M9tX4Eag"
     },
     {
       "id": 147,
@@ -2660,7 +2793,8 @@
       "topicOrder": 22,
       "roadmapOrder": 134,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=UcGtPs2LE_c"
     },
     {
       "id": 148,
@@ -2677,7 +2811,8 @@
       "topicOrder": 23,
       "roadmapOrder": 135,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=KT1iUciJr4g"
     },
     {
       "id": 149,
@@ -2697,7 +2832,8 @@
       "topicOrder": 71,
       "roadmapOrder": 136,
       "wave": 2,
-      "waveName": "Foundations - Intermediate"
+      "waveName": "Foundations - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 155,
@@ -2724,7 +2860,8 @@
       "topicOrder": 1,
       "roadmapOrder": 137,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=hTM3phVI6YQ"
     },
     {
       "id": 156,
@@ -2750,7 +2887,8 @@
       "topicOrder": 2,
       "roadmapOrder": 138,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=OnSn2XEQ4MY"
     },
     {
       "id": 157,
@@ -2776,7 +2914,8 @@
       "topicOrder": 3,
       "roadmapOrder": 139,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=vRbbcKXCxOw"
     },
     {
       "id": 158,
@@ -2802,7 +2941,8 @@
       "topicOrder": 4,
       "roadmapOrder": 140,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=gs2LMfuOR9k"
     },
     {
       "id": 159,
@@ -2826,7 +2966,8 @@
       "topicOrder": 5,
       "roadmapOrder": 141,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=E36O5SWp-LE"
     },
     {
       "id": 160,
@@ -2849,7 +2990,8 @@
       "topicOrder": 6,
       "roadmapOrder": 142,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=K81C31ytOZE"
     },
     {
       "id": 161,
@@ -2872,7 +3014,8 @@
       "topicOrder": 7,
       "roadmapOrder": 143,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=QfJsau0ItOY"
     },
     {
       "id": 162,
@@ -2895,7 +3038,8 @@
       "topicOrder": 8,
       "roadmapOrder": 144,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=LSKQyOz_P8I"
     },
     {
       "id": 163,
@@ -2918,7 +3062,8 @@
       "topicOrder": 9,
       "roadmapOrder": 145,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": null
     },
     {
       "id": 164,
@@ -2940,7 +3085,8 @@
       "topicOrder": 10,
       "roadmapOrder": 146,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=Mao9uzxwvmc"
     },
     {
       "id": 165,
@@ -2961,7 +3107,8 @@
       "topicOrder": 1,
       "roadmapOrder": 147,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=B-QCq79-Vfw"
     },
     {
       "id": 166,
@@ -2983,7 +3130,8 @@
       "topicOrder": 11,
       "roadmapOrder": 148,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": null
     },
     {
       "id": 167,
@@ -3000,7 +3148,8 @@
       "topicOrder": 12,
       "roadmapOrder": 149,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": null
     },
     {
       "id": 168,
@@ -3017,7 +3166,8 @@
       "topicOrder": 13,
       "roadmapOrder": 150,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": null
     },
     {
       "id": 169,
@@ -3034,7 +3184,8 @@
       "topicOrder": 14,
       "roadmapOrder": 151,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=QHH6rIK3dDQ"
     },
     {
       "id": 170,
@@ -3051,7 +3202,8 @@
       "topicOrder": 15,
       "roadmapOrder": 152,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=Nr8dbnL0_cM"
     },
     {
       "id": 171,
@@ -3068,7 +3220,8 @@
       "topicOrder": 16,
       "roadmapOrder": 153,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": null
     },
     {
       "id": 172,
@@ -3088,7 +3241,8 @@
       "topicOrder": 2,
       "roadmapOrder": 154,
       "wave": 3,
-      "waveName": "Trees & Heaps - Basics"
+      "waveName": "Trees & Heaps - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=hOjcdrqMoQ8"
     },
     {
       "id": 173,
@@ -3115,7 +3269,8 @@
       "topicOrder": 1,
       "roadmapOrder": 155,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=oobqoCJlHA0"
     },
     {
       "id": 174,
@@ -3141,7 +3296,8 @@
       "topicOrder": 17,
       "roadmapOrder": 156,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=6ZnyEApgFYg"
     },
     {
       "id": 175,
@@ -3167,7 +3323,8 @@
       "topicOrder": 18,
       "roadmapOrder": 157,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=s6ATEkipzow"
     },
     {
       "id": 176,
@@ -3193,7 +3350,8 @@
       "topicOrder": 19,
       "roadmapOrder": 158,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=d4zLyf32e3I"
     },
     {
       "id": 177,
@@ -3218,7 +3376,8 @@
       "topicOrder": 20,
       "roadmapOrder": 159,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=ihj4IQGZ2zc"
     },
     {
       "id": 178,
@@ -3243,7 +3402,8 @@
       "topicOrder": 3,
       "roadmapOrder": 160,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=XEmy13g1Qxc"
     },
     {
       "id": 179,
@@ -3268,7 +3428,8 @@
       "topicOrder": 21,
       "roadmapOrder": 161,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=5LUXSvjmGCw"
     },
     {
       "id": 180,
@@ -3292,7 +3453,8 @@
       "topicOrder": 2,
       "roadmapOrder": 162,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=BTf05gs_8iU"
     },
     {
       "id": 181,
@@ -3316,7 +3478,8 @@
       "topicOrder": 4,
       "roadmapOrder": 163,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=rI2EBUEMfTk"
     },
     {
       "id": 182,
@@ -3339,7 +3502,8 @@
       "topicOrder": 5,
       "roadmapOrder": 164,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=s8p8ukTyA2I"
     },
     {
       "id": 183,
@@ -3363,7 +3527,8 @@
       "topicOrder": 22,
       "roadmapOrder": 165,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=igbboQbiwqw"
     },
     {
       "id": 184,
@@ -3385,7 +3550,8 @@
       "topicOrder": 23,
       "roadmapOrder": 166,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 185,
@@ -3402,7 +3568,8 @@
       "topicOrder": 24,
       "roadmapOrder": 167,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 186,
@@ -3419,7 +3586,8 @@
       "topicOrder": 25,
       "roadmapOrder": 168,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=7cp5imvDM0E"
     },
     {
       "id": 187,
@@ -3436,7 +3604,8 @@
       "topicOrder": 26,
       "roadmapOrder": 169,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 188,
@@ -3453,7 +3622,8 @@
       "topicOrder": 27,
       "roadmapOrder": 170,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 189,
@@ -3470,7 +3640,8 @@
       "topicOrder": 28,
       "roadmapOrder": 171,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=LFzAoJJt92M"
     },
     {
       "id": 190,
@@ -3487,7 +3658,8 @@
       "topicOrder": 29,
       "roadmapOrder": 172,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=vm63HuIU7kw"
     },
     {
       "id": 191,
@@ -3504,7 +3676,8 @@
       "topicOrder": 30,
       "roadmapOrder": 173,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 192,
@@ -3521,7 +3694,8 @@
       "topicOrder": 31,
       "roadmapOrder": 174,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=Jk16lZGFWxE"
     },
     {
       "id": 193,
@@ -3538,7 +3712,8 @@
       "topicOrder": 32,
       "roadmapOrder": 175,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 194,
@@ -3559,7 +3734,8 @@
       "topicOrder": 6,
       "roadmapOrder": 176,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=pNichitDD2E"
     },
     {
       "id": 195,
@@ -3576,7 +3752,8 @@
       "topicOrder": 7,
       "roadmapOrder": 177,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 196,
@@ -3593,7 +3770,8 @@
       "topicOrder": 8,
       "roadmapOrder": 178,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=ax1DKi5lJwk"
     },
     {
       "id": 197,
@@ -3610,7 +3788,8 @@
       "topicOrder": 9,
       "roadmapOrder": 179,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 198,
@@ -3627,7 +3806,8 @@
       "topicOrder": 10,
       "roadmapOrder": 180,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 199,
@@ -3644,7 +3824,8 @@
       "topicOrder": 3,
       "roadmapOrder": 181,
       "wave": 4,
-      "waveName": "Trees & Heaps - Intermediate"
+      "waveName": "Trees & Heaps - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=D4T2N0yAr20"
     },
     {
       "id": 200,
@@ -3665,7 +3846,8 @@
       "topicOrder": 1,
       "roadmapOrder": 182,
       "wave": 5,
-      "waveName": "Graphs & Backtracking - Basics"
+      "waveName": "Graphs & Backtracking - Basics",
+      "neetcodeVideo": null
     },
     {
       "id": 201,
@@ -3690,7 +3872,8 @@
       "topicOrder": 1,
       "roadmapOrder": 183,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=0snEunUacZY"
     },
     {
       "id": 202,
@@ -3718,7 +3901,8 @@
       "topicOrder": 2,
       "roadmapOrder": 184,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=EgI5nU9etnU"
     },
     {
       "id": 203,
@@ -3745,7 +3929,8 @@
       "topicOrder": 3,
       "roadmapOrder": 185,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=mQeF6bN8hMk"
     },
     {
       "id": 204,
@@ -3769,7 +3954,8 @@
       "topicOrder": 2,
       "roadmapOrder": 186,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=FZe0UqISmUw"
     },
     {
       "id": 205,
@@ -3793,7 +3979,8 @@
       "topicOrder": 3,
       "roadmapOrder": 187,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=GBKI9VSKdGg"
     },
     {
       "id": 206,
@@ -3819,7 +4006,8 @@
       "topicOrder": 4,
       "roadmapOrder": 188,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=pV2kpPD66nE"
     },
     {
       "id": 207,
@@ -3844,7 +4032,8 @@
       "topicOrder": 5,
       "roadmapOrder": 189,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=y704fEOx0s0"
     },
     {
       "id": 208,
@@ -3869,7 +4058,8 @@
       "topicOrder": 4,
       "roadmapOrder": 190,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=pfiQ_PS1g8E"
     },
     {
       "id": 209,
@@ -3894,7 +4084,8 @@
       "topicOrder": 6,
       "roadmapOrder": 191,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=Akt3glAwyfY"
     },
     {
       "id": 210,
@@ -3918,7 +4109,8 @@
       "topicOrder": 7,
       "roadmapOrder": 192,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=s-VkcjHqkGI"
     },
     {
       "id": 211,
@@ -3941,7 +4133,8 @@
       "topicOrder": 5,
       "roadmapOrder": 193,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=REOH22Xwdkk"
     },
     {
       "id": 212,
@@ -3964,7 +4157,8 @@
       "topicOrder": 6,
       "roadmapOrder": 194,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=dJ7sWiOoK7g"
     },
     {
       "id": 213,
@@ -3985,7 +4179,8 @@
       "topicOrder": 7,
       "roadmapOrder": 195,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=FOyRpNUSFeA"
     },
     {
       "id": 214,
@@ -4007,7 +4202,8 @@
       "topicOrder": 8,
       "roadmapOrder": 196,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=3jvWodd7ht0"
     },
     {
       "id": 215,
@@ -4030,7 +4226,8 @@
       "topicOrder": 8,
       "roadmapOrder": 197,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=9z2BunfoZ5Y"
     },
     {
       "id": 216,
@@ -4053,7 +4250,8 @@
       "topicOrder": 9,
       "roadmapOrder": 198,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=bXsUuownnoQ"
     },
     {
       "id": 217,
@@ -4076,7 +4274,8 @@
       "topicOrder": 10,
       "roadmapOrder": 199,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=8f1XPm4WOUc"
     },
     {
       "id": 218,
@@ -4097,7 +4296,8 @@
       "topicOrder": 9,
       "roadmapOrder": 200,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=q0s6m7AiM7o"
     },
     {
       "id": 219,
@@ -4119,7 +4319,8 @@
       "topicOrder": 11,
       "roadmapOrder": 201,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=iJGr1OtmH0c"
     },
     {
       "id": 220,
@@ -4142,7 +4343,8 @@
       "topicOrder": 1,
       "roadmapOrder": 202,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=f7JOBJIC-NA"
     },
     {
       "id": 221,
@@ -4164,7 +4366,8 @@
       "topicOrder": 2,
       "roadmapOrder": 203,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=EaphyqKU4PQ"
     },
     {
       "id": 222,
@@ -4184,7 +4387,8 @@
       "topicOrder": 10,
       "roadmapOrder": 204,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=Vn2v6ajA7U0"
     },
     {
       "id": 223,
@@ -4205,7 +4409,8 @@
       "topicOrder": 12,
       "roadmapOrder": 205,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=e69C6xhiSQE"
     },
     {
       "id": 224,
@@ -4226,7 +4431,8 @@
       "topicOrder": 13,
       "roadmapOrder": 206,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=1lNK80tOTfc"
     },
     {
       "id": 225,
@@ -4243,7 +4449,8 @@
       "topicOrder": 14,
       "roadmapOrder": 207,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=6st4IxEF-90"
     },
     {
       "id": 226,
@@ -4260,7 +4467,8 @@
       "topicOrder": 15,
       "roadmapOrder": 208,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 227,
@@ -4277,7 +4485,8 @@
       "topicOrder": 16,
       "roadmapOrder": 209,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 228,
@@ -4294,7 +4503,8 @@
       "topicOrder": 17,
       "roadmapOrder": 210,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=m17yOR5_PpI"
     },
     {
       "id": 229,
@@ -4311,7 +4521,8 @@
       "topicOrder": 18,
       "roadmapOrder": 211,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=Uei1fwDoyKk"
     },
     {
       "id": 230,
@@ -4328,7 +4539,8 @@
       "topicOrder": 19,
       "roadmapOrder": 212,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 231,
@@ -4345,7 +4557,8 @@
       "topicOrder": 20,
       "roadmapOrder": 213,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=6lH4nO3JfLk"
     },
     {
       "id": 232,
@@ -4362,7 +4575,8 @@
       "topicOrder": 21,
       "roadmapOrder": 214,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 233,
@@ -4383,7 +4597,8 @@
       "topicOrder": 3,
       "roadmapOrder": 215,
       "wave": 6,
-      "waveName": "Graphs & Backtracking - Intermediate"
+      "waveName": "Graphs & Backtracking - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=5eIK3zUdYmE"
     },
     {
       "id": 234,
@@ -4409,7 +4624,8 @@
       "topicOrder": 1,
       "roadmapOrder": 216,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=Y0lT9Fck7qI"
     },
     {
       "id": 235,
@@ -4432,7 +4648,8 @@
       "topicOrder": 1,
       "roadmapOrder": 217,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=5Km3utixwZs"
     },
     {
       "id": 236,
@@ -4455,7 +4672,8 @@
       "topicOrder": 1,
       "roadmapOrder": 218,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=PaJxqZVPhbg"
     },
     {
       "id": 237,
@@ -4477,7 +4695,8 @@
       "topicOrder": 2,
       "roadmapOrder": 219,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=UcoN6UjAI64"
     },
     {
       "id": 238,
@@ -4500,7 +4719,8 @@
       "topicOrder": 3,
       "roadmapOrder": 220,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=RyBM56RIWrM"
     },
     {
       "id": 239,
@@ -4522,7 +4742,8 @@
       "topicOrder": 1,
       "roadmapOrder": 221,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=ljz85bxOYJ0"
     },
     {
       "id": 240,
@@ -4544,7 +4765,8 @@
       "topicOrder": 2,
       "roadmapOrder": 222,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=jIaA8boiG1s"
     },
     {
       "id": 241,
@@ -4566,7 +4788,8 @@
       "topicOrder": 4,
       "roadmapOrder": 223,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=WnPLSRLSANE"
     },
     {
       "id": 242,
@@ -4587,7 +4810,8 @@
       "topicOrder": 2,
       "roadmapOrder": 224,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=ktmzAZWkEZ0"
     },
     {
       "id": 244,
@@ -4608,7 +4832,8 @@
       "topicOrder": 3,
       "roadmapOrder": 225,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": null
     },
     {
       "id": 245,
@@ -4625,7 +4850,8 @@
       "topicOrder": 4,
       "roadmapOrder": 226,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=3lpNp5Ojvrw"
     },
     {
       "id": 246,
@@ -4642,7 +4868,8 @@
       "topicOrder": 1,
       "roadmapOrder": 227,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=0K0uCMYq5ng"
     },
     {
       "id": 247,
@@ -4659,7 +4886,8 @@
       "topicOrder": 3,
       "roadmapOrder": 228,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=yubRKwixN-U"
     },
     {
       "id": 248,
@@ -4676,7 +4904,8 @@
       "topicOrder": 4,
       "roadmapOrder": 229,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=zdMhGxRWutQ"
     },
     {
       "id": 249,
@@ -4693,7 +4922,8 @@
       "topicOrder": 5,
       "roadmapOrder": 230,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=qMPX1AOa83k"
     },
     {
       "id": 250,
@@ -4710,7 +4940,8 @@
       "topicOrder": 6,
       "roadmapOrder": 231,
       "wave": 7,
-      "waveName": "Advanced Patterns - Basics"
+      "waveName": "Advanced Patterns - Basics",
+      "neetcodeVideo": "https://youtube.com/watch?v=keuWJ47xG8g"
     },
     {
       "id": 251,
@@ -4734,7 +4965,8 @@
       "topicOrder": 5,
       "roadmapOrder": 232,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=73r3KWiEvyk"
     },
     {
       "id": 252,
@@ -4759,7 +4991,8 @@
       "topicOrder": 1,
       "roadmapOrder": 233,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=IlEsdxuD4lY"
     },
     {
       "id": 253,
@@ -4784,7 +5017,8 @@
       "topicOrder": 5,
       "roadmapOrder": 234,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=T41rL0L3Pnw"
     },
     {
       "id": 254,
@@ -4808,7 +5042,8 @@
       "topicOrder": 6,
       "roadmapOrder": 235,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=H9bfqozjoqs"
     },
     {
       "id": 255,
@@ -4833,7 +5068,8 @@
       "topicOrder": 2,
       "roadmapOrder": 236,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=44H3cEC2fFM"
     },
     {
       "id": 256,
@@ -4858,7 +5094,8 @@
       "topicOrder": 6,
       "roadmapOrder": 237,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=BJnMZNwUk1M"
     },
     {
       "id": 257,
@@ -4883,7 +5120,8 @@
       "topicOrder": 2,
       "roadmapOrder": 238,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=Ua0GhsJSlWM"
     },
     {
       "id": 258,
@@ -4907,7 +5145,8 @@
       "topicOrder": 7,
       "roadmapOrder": 239,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=Sx9NNgInc3A"
     },
     {
       "id": 259,
@@ -4931,7 +5170,8 @@
       "topicOrder": 3,
       "roadmapOrder": 240,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=A8NUOmlwOlM"
     },
     {
       "id": 260,
@@ -4955,7 +5195,8 @@
       "topicOrder": 8,
       "roadmapOrder": 241,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=cjWnW0hdF1Y"
     },
     {
       "id": 261,
@@ -4980,7 +5221,8 @@
       "topicOrder": 7,
       "roadmapOrder": 242,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=fMSJSS7eO1w"
     },
     {
       "id": 262,
@@ -5004,7 +5246,8 @@
       "topicOrder": 9,
       "roadmapOrder": 243,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=XYQecbcd6_c"
     },
     {
       "id": 263,
@@ -5027,7 +5270,8 @@
       "topicOrder": 10,
       "roadmapOrder": 244,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=6aEyTjOwlJU"
     },
     {
       "id": 264,
@@ -5051,7 +5295,8 @@
       "topicOrder": 4,
       "roadmapOrder": 245,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=nONCGxWoUfM"
     },
     {
       "id": 265,
@@ -5075,7 +5320,8 @@
       "topicOrder": 5,
       "roadmapOrder": 246,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=FdzJmTCVyJU"
     },
     {
       "id": 266,
@@ -5098,7 +5344,8 @@
       "topicOrder": 11,
       "roadmapOrder": 247,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=5WZl3MMT0Eg"
     },
     {
       "id": 267,
@@ -5121,7 +5368,8 @@
       "topicOrder": 12,
       "roadmapOrder": 248,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=Yan0cv2cLy8"
     },
     {
       "id": 268,
@@ -5142,7 +5390,8 @@
       "topicOrder": 13,
       "roadmapOrder": 249,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=rWAJCfYYOvM"
     },
     {
       "id": 269,
@@ -5163,7 +5412,8 @@
       "topicOrder": 14,
       "roadmapOrder": 250,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=lXVy6YWFcRM"
     },
     {
       "id": 270,
@@ -5185,7 +5435,8 @@
       "topicOrder": 15,
       "roadmapOrder": 251,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=IsvocB5BJhw"
     },
     {
       "id": 271,
@@ -5207,7 +5458,8 @@
       "topicOrder": 3,
       "roadmapOrder": 252,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=XYi2-LPrwm4"
     },
     {
       "id": 272,
@@ -5228,7 +5480,8 @@
       "topicOrder": 2,
       "roadmapOrder": 253,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=lJwbPZGo05A"
     },
     {
       "id": 273,
@@ -5249,7 +5502,8 @@
       "topicOrder": 7,
       "roadmapOrder": 254,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=gVUrDV4tZfY"
     },
     {
       "id": 274,
@@ -5271,7 +5525,8 @@
       "topicOrder": 16,
       "roadmapOrder": 255,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=4RACzI5-du8"
     },
     {
       "id": 275,
@@ -5292,7 +5547,8 @@
       "topicOrder": 4,
       "roadmapOrder": 256,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=dwMOrl85Xes"
     },
     {
       "id": 276,
@@ -5313,7 +5569,8 @@
       "topicOrder": 5,
       "roadmapOrder": 257,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=3Rw3p9LrgvE"
     },
     {
       "id": 277,
@@ -5334,7 +5591,8 @@
       "topicOrder": 8,
       "roadmapOrder": 258,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=g9YQyYi4IQQ"
     },
     {
       "id": 278,
@@ -5355,7 +5613,8 @@
       "topicOrder": 3,
       "roadmapOrder": 259,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=3SJ3pUkPQMc"
     },
     {
       "id": 279,
@@ -5372,7 +5631,8 @@
       "topicOrder": 17,
       "roadmapOrder": 260,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 280,
@@ -5389,7 +5649,8 @@
       "topicOrder": 18,
       "roadmapOrder": 261,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=fxT9KjakYPM"
     },
     {
       "id": 281,
@@ -5409,7 +5670,8 @@
       "topicOrder": 6,
       "roadmapOrder": 262,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=I7j0F7AHpb8"
     },
     {
       "id": 282,
@@ -5429,7 +5691,8 @@
       "topicOrder": 7,
       "roadmapOrder": 263,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=Mjy4hd2xgrs"
     },
     {
       "id": 283,
@@ -5446,7 +5709,8 @@
       "topicOrder": 8,
       "roadmapOrder": 264,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 284,
@@ -5463,7 +5727,8 @@
       "topicOrder": 9,
       "roadmapOrder": 265,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=OM1MTokvxs4"
     },
     {
       "id": 285,
@@ -5480,7 +5745,8 @@
       "topicOrder": 10,
       "roadmapOrder": 266,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=d3UOz7zdE4I"
     },
     {
       "id": 286,
@@ -5497,7 +5763,8 @@
       "topicOrder": 11,
       "roadmapOrder": 267,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=6X7Ha2PrDmM"
     },
     {
       "id": 287,
@@ -5516,7 +5783,8 @@
       "topicOrder": 4,
       "roadmapOrder": 268,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=kShkQLQZ9K4"
     },
     {
       "id": 288,
@@ -5536,7 +5804,8 @@
       "topicOrder": 5,
       "roadmapOrder": 269,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 289,
@@ -5556,7 +5825,8 @@
       "topicOrder": 6,
       "roadmapOrder": 270,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=B7m8UmZE-vw"
     },
     {
       "id": 290,
@@ -5577,7 +5847,8 @@
       "topicOrder": 7,
       "roadmapOrder": 271,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=QhPdNS143Qg"
     },
     {
       "id": 291,
@@ -5594,7 +5865,8 @@
       "topicOrder": 8,
       "roadmapOrder": 272,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=UQ-1sBMV0v4"
     },
     {
       "id": 292,
@@ -5611,7 +5883,8 @@
       "topicOrder": 6,
       "roadmapOrder": 273,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=lPmkKnvNPrw"
     },
     {
       "id": 293,
@@ -5631,7 +5904,8 @@
       "topicOrder": 9,
       "roadmapOrder": 274,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=1vZswirL8Y8"
     },
     {
       "id": 294,
@@ -5652,7 +5926,8 @@
       "topicOrder": 10,
       "roadmapOrder": 275,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=bahebearrDc"
     },
     {
       "id": 295,
@@ -5669,7 +5944,8 @@
       "topicOrder": 11,
       "roadmapOrder": 276,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 296,
@@ -5686,7 +5962,8 @@
       "topicOrder": 12,
       "roadmapOrder": 277,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 297,
@@ -5703,7 +5980,8 @@
       "topicOrder": 8,
       "roadmapOrder": 278,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 298,
@@ -5720,7 +5998,8 @@
       "topicOrder": 9,
       "roadmapOrder": 279,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": null
     },
     {
       "id": 299,
@@ -5737,7 +6016,8 @@
       "topicOrder": 10,
       "roadmapOrder": 280,
       "wave": 8,
-      "waveName": "Advanced Patterns - Intermediate"
+      "waveName": "Advanced Patterns - Intermediate",
+      "neetcodeVideo": "https://youtube.com/watch?v=R3T0olAhUq0"
     },
     {
       "id": 301,
@@ -5763,7 +6043,8 @@
       "topicOrder": 24,
       "roadmapOrder": 281,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=q5a5OiGbT6Q"
     },
     {
       "id": 302,
@@ -5787,7 +6068,8 @@
       "topicOrder": 10,
       "roadmapOrder": 282,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=jSto0O4AJbM"
     },
     {
       "id": 303,
@@ -5812,7 +6094,8 @@
       "topicOrder": 11,
       "roadmapOrder": 283,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=itmhHWaHupI"
     },
     {
       "id": 304,
@@ -5836,7 +6119,8 @@
       "topicOrder": 33,
       "roadmapOrder": 284,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=Hr5cWUld4vU"
     },
     {
       "id": 305,
@@ -5861,7 +6145,8 @@
       "topicOrder": 34,
       "roadmapOrder": 285,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=u4JAi2JJhI8"
     },
     {
       "id": 306,
@@ -5885,7 +6170,8 @@
       "topicOrder": 4,
       "roadmapOrder": 286,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=asbcE9mZz_U"
     },
     {
       "id": 307,
@@ -5909,7 +6195,8 @@
       "topicOrder": 4,
       "roadmapOrder": 287,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=h9iTnkgv05E"
     },
     {
       "id": 308,
@@ -5933,7 +6220,8 @@
       "topicOrder": 9,
       "roadmapOrder": 288,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=ZI2z5pq0TqA"
     },
     {
       "id": 309,
@@ -5955,7 +6243,8 @@
       "topicOrder": 13,
       "roadmapOrder": 289,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=q6IEA26hvXc"
     },
     {
       "id": 310,
@@ -5978,7 +6267,8 @@
       "topicOrder": 5,
       "roadmapOrder": 290,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=6kTZYvNNyps"
     },
     {
       "id": 311,
@@ -6000,7 +6290,8 @@
       "topicOrder": 11,
       "roadmapOrder": 291,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=DfljaUwZsOk"
     },
     {
       "id": 312,
@@ -6018,7 +6309,8 @@
       "topicOrder": 25,
       "roadmapOrder": 292,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=1UOPsfP85V4"
     },
     {
       "id": 313,
@@ -6039,7 +6331,8 @@
       "topicOrder": 11,
       "roadmapOrder": 293,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=Ph95IHmRp5M"
     },
     {
       "id": 314,
@@ -6056,7 +6349,8 @@
       "topicOrder": 72,
       "roadmapOrder": 294,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": null
     },
     {
       "id": 315,
@@ -6073,7 +6367,8 @@
       "topicOrder": 73,
       "roadmapOrder": 295,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": null
     },
     {
       "id": 316,
@@ -6090,7 +6385,8 @@
       "topicOrder": 74,
       "roadmapOrder": 296,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=8g78yfzMlao"
     },
     {
       "id": 317,
@@ -6107,7 +6403,8 @@
       "topicOrder": 75,
       "roadmapOrder": 297,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=1IzCRCcK17A"
     },
     {
       "id": 318,
@@ -6124,7 +6421,8 @@
       "topicOrder": 76,
       "roadmapOrder": 298,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=TzMl4Z7pVh8"
     },
     {
       "id": 319,
@@ -6145,7 +6443,8 @@
       "topicOrder": 14,
       "roadmapOrder": 299,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=zx5Sw9130L0"
     },
     {
       "id": 320,
@@ -6162,7 +6461,8 @@
       "topicOrder": 15,
       "roadmapOrder": 300,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": null
     },
     {
       "id": 321,
@@ -6179,7 +6479,8 @@
       "topicOrder": 12,
       "roadmapOrder": 301,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=1IUzNJ6TPEM"
     },
     {
       "id": 322,
@@ -6196,7 +6497,8 @@
       "topicOrder": 12,
       "roadmapOrder": 302,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=nalYyLZgvCY"
     },
     {
       "id": 323,
@@ -6217,7 +6519,8 @@
       "topicOrder": 6,
       "roadmapOrder": 303,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=ZyB_gQ8vqGA"
     },
     {
       "id": 324,
@@ -6238,7 +6541,8 @@
       "topicOrder": 7,
       "roadmapOrder": 304,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=amvrKlMLuGY"
     },
     {
       "id": 325,
@@ -6259,7 +6563,8 @@
       "topicOrder": 12,
       "roadmapOrder": 305,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=wCc_nd-GiEc"
     },
     {
       "id": 326,
@@ -6279,7 +6584,8 @@
       "topicOrder": 13,
       "roadmapOrder": 306,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=-RDzMJ33nx8"
     },
     {
       "id": 327,
@@ -6299,7 +6605,8 @@
       "topicOrder": 14,
       "roadmapOrder": 307,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=VFskby7lUbw"
     },
     {
       "id": 328,
@@ -6319,7 +6626,8 @@
       "topicOrder": 15,
       "roadmapOrder": 308,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=HAA8mgxlov8"
     },
     {
       "id": 329,
@@ -6336,7 +6644,8 @@
       "topicOrder": 16,
       "roadmapOrder": 309,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": null
     },
     {
       "id": 330,
@@ -6357,7 +6666,8 @@
       "topicOrder": 7,
       "roadmapOrder": 310,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=5hQ5WWW5awQ"
     },
     {
       "id": 331,
@@ -6374,7 +6684,8 @@
       "topicOrder": 13,
       "roadmapOrder": 311,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=Bb9lOXUOnFw"
     },
     {
       "id": 332,
@@ -6395,7 +6706,8 @@
       "topicOrder": 35,
       "roadmapOrder": 312,
       "wave": 9,
-      "waveName": "Hard Problems"
+      "waveName": "Hard Problems",
+      "neetcodeVideo": "https://youtube.com/watch?v=OpgslsirW8s"
     }
   ]
 }
