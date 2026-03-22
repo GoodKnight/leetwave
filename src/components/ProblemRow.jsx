@@ -2,13 +2,13 @@ import { useState } from 'react';
 import { useApp } from '../context/AppContext';
 
 const SOURCE_BADGES = {
-  neetcode150: { label: 'NC', color: 'bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-400' },
-  blind75: { label: 'B75', color: 'bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-400' },
-  grind75: { label: 'G75', color: 'bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-400' },
-  algomap: { label: 'AM', color: 'bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-400' },
-  seanprashad: { label: 'SP', color: 'bg-pink-100 text-pink-700 dark:bg-pink-900/40 dark:text-pink-400' },
-  leetcode75: { label: 'LC75', color: 'bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-400' },
-  topinterview150: { label: 'TI', color: 'bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-400' }
+  neetcode150: { label: 'NC', title: 'NeetCode 150', color: 'bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-400' },
+  blind75: { label: 'B75', title: 'Blind 75', color: 'bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-400' },
+  grind75: { label: 'G75', title: 'Grind 75', color: 'bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-400' },
+  algomap: { label: 'AM', title: 'Algomap', color: 'bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-400' },
+  seanprashad: { label: 'SP', title: "Sean Prashad's LeetCode Patterns", color: 'bg-pink-100 text-pink-700 dark:bg-pink-900/40 dark:text-pink-400' },
+  leetcode75: { label: 'LC75', title: 'LeetCode 75 Study Plan', color: 'bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-400' },
+  topinterview150: { label: 'TI', title: 'Top Interview 150', color: 'bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-400' }
 };
 
 const DIFFICULTY_COLORS = {
@@ -139,7 +139,7 @@ export default function ProblemRow({ problem }) {
         {/* Source Badges — hidden on small screens */}
         <div className="hidden sm:flex flex-shrink-0 gap-1">
           {problem.sources.map(s => (
-            <span key={s} className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${SOURCE_BADGES[s]?.color}`}>
+            <span key={s} title={SOURCE_BADGES[s]?.title} className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${SOURCE_BADGES[s]?.color}`}>
               {SOURCE_BADGES[s]?.label}
             </span>
           ))}

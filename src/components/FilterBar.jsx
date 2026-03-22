@@ -1,13 +1,13 @@
 import { useApp } from '../context/AppContext';
 
 const SOURCE_OPTIONS = [
-  { key: 'neetcode150', label: 'NC 150', color: 'bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-400' },
-  { key: 'blind75', label: 'B75', color: 'bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-400' },
-  { key: 'grind75', label: 'G75', color: 'bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400' },
-  { key: 'algomap', label: 'AM', color: 'bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-400' },
-  { key: 'seanprashad', label: 'SP', color: 'bg-pink-100 text-pink-700 dark:bg-pink-900/30 dark:text-pink-400' },
-  { key: 'leetcode75', label: 'LC75', color: 'bg-teal-100 text-teal-700 dark:bg-teal-900/30 dark:text-teal-400' },
-  { key: 'topinterview150', label: 'TI150', color: 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400' }
+  { key: 'neetcode150', label: 'NC 150', title: 'NeetCode 150', color: 'bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-400' },
+  { key: 'blind75', label: 'B75', title: 'Blind 75', color: 'bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-400' },
+  { key: 'grind75', label: 'G75', title: 'Grind 75', color: 'bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400' },
+  { key: 'algomap', label: 'AM', title: 'Algomap', color: 'bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-400' },
+  { key: 'seanprashad', label: 'SP', title: "Sean Prashad's LeetCode Patterns", color: 'bg-pink-100 text-pink-700 dark:bg-pink-900/30 dark:text-pink-400' },
+  { key: 'leetcode75', label: 'LC75', title: 'LeetCode 75 Study Plan', color: 'bg-teal-100 text-teal-700 dark:bg-teal-900/30 dark:text-teal-400' },
+  { key: 'topinterview150', label: 'TI150', title: 'Top Interview 150', color: 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400' }
 ];
 
 const DIFFICULTY_OPTIONS = [
@@ -22,10 +22,11 @@ const STATUS_OPTIONS = [
   { key: 'review', label: 'Review Due' }
 ];
 
-function TogglePill({ label, isActive, color, onClick }) {
+function TogglePill({ label, title, isActive, color, onClick }) {
   return (
     <button
       onClick={onClick}
+      title={title}
       className={`px-2.5 py-1 rounded-full text-xs font-medium transition-all ${
         isActive
           ? color + ' ring-2 ring-offset-1 dark:ring-offset-gray-900 ring-current'
@@ -83,10 +84,11 @@ export default function FilterBar() {
       {/* Source Filters */}
       <div className="flex flex-wrap gap-1.5">
         <span className="text-xs text-gray-500 dark:text-gray-400 self-center mr-1">Sources:</span>
-        {SOURCE_OPTIONS.map(({ key, label, color }) => (
+        {SOURCE_OPTIONS.map(({ key, label, title, color }) => (
           <TogglePill
             key={key}
             label={label}
+            title={title}
             isActive={filters.sources.includes(key)}
             color={color}
             onClick={() => toggleFilter('sources', key)}
