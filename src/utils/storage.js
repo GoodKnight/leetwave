@@ -67,3 +67,36 @@ export function saveStats(stats) {
   state.stats = stats;
   saveState(state);
 }
+
+export function exportData() {
+  const state = loadState() || {};
+  const blob = new Blob([JSON.stringify(state, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const date = new Date().toISOString().split('T')[0];
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `leetwave-backup-${date}.json`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+export function importData(file) {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      try {
+        const data = JSON.parse(e.target.result);
+        if (!data.userProgress && !data.settings && !data.stats) {
+          reject(new Error('This file does not look like a LeetWave backup.'));
+          return;
+        }
+        saveState(data);
+        resolve(data);
+      } catch {
+        reject(new Error('Invalid JSON file.'));
+      }
+    };
+    reader.onerror = () => reject(new Error('Failed to read file.'));
+    reader.readAsText(file);
+  });
+}
