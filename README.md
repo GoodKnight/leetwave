@@ -15,10 +15,15 @@ The app organizes problems into 9 progressive waves, from foundational easy prob
 - **Wave-based progression** — 9 waves interleave topics and difficulties so you're never grinding one category too long
 - **Deep Dive mode** — Toggle to topic-sequential ordering when you want to hammer a specific pattern
 - **Spaced repetition** — Three-tier confidence ratings (Nailed it / Got there / Had to learn) with interval-based review scheduling
-- **Built-in timer** — Tracks solve time per problem with auto-suggested confidence ratings based on difficulty benchmarks
-- **Progress dashboard** — Visual overview of completion, review schedule, and topic breakdown
+- **Built-in timer** — Tracks solve time per problem with auto-suggested confidence ratings based on difficulty benchmarks. Uses wall clock time so it stays accurate even when the browser tab is in the background
+- **Progress dashboard** — Visual overview of completion, calendar heatmap, review schedule, topic/source/difficulty breakdowns, and average solve times
 - **Cross-reference priority** — Problems recommended by more source lists are served first within each wave
 - **Direct LeetCode links** — One click to open any problem on LeetCode
+- **NeetCode video links** — Quick access to NeetCode explanations on YouTube (where available)
+- **Custom problems** — Add your own problems (e.g., company-specific) with auto wave assignment, full spaced repetition support, and custom source tags that appear as filters
+- **Editable notes** — Add, edit, or delete notes on any solved problem via an expandable pencil icon
+- **Export/Import** — Back up your progress to a JSON file and restore it on any browser or device
+- **Dark/Light theme** — Dark mode by default with a toggle in the nav bar
 - **Local storage persistence** — All progress saved in your browser, no account needed
 
 ![LeetWave Dashboard](assets/dashboard.png)
@@ -33,7 +38,11 @@ npm install
 npm run dev
 ```
 
-The app runs at `http://localhost:5173` by default.
+The app runs at `http://localhost:5173/leetwave/` by default.
+
+### Live Demo
+
+Deployed via GitHub Pages at [goodknight.github.io/leetwave](https://goodknight.github.io/leetwave/).
 
 ## Tech Stack
 
@@ -72,11 +81,11 @@ Problems are organized into 9 waves for progressive difficulty ramp-up:
 
 ```
 src/
-  components/    # React components (RoadmapView, Dashboard, Timer, etc.)
+  components/    # React components (RoadmapView, Dashboard, Timer, CustomProblems, etc.)
   context/       # App-wide state management
   data/          # seedData.json (312 problems with metadata)
   hooks/         # Custom hooks for problems, stats, timer
-  utils/         # Spaced repetition engine, storage, date utilities
+  utils/         # Spaced repetition engine, storage, date utilities, wave assignment
 ```
 
 ## Note
