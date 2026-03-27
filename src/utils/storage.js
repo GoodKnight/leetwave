@@ -68,6 +68,21 @@ export function saveStats(stats) {
   saveState(state);
 }
 
+export function loadCustomProblems() {
+  const state = loadState();
+  return state?.customProblems || [];
+}
+
+export function saveCustomProblems(problems) {
+  const state = loadState() || {};
+  state.customProblems = problems;
+  saveState(state);
+}
+
+export function generateId() {
+  return 'custom-' + crypto.randomUUID().slice(0, 8);
+}
+
 export function exportData() {
   const state = loadState() || {};
   const blob = new Blob([JSON.stringify(state, null, 2)], { type: 'application/json' });

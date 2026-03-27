@@ -3,6 +3,7 @@ import { useState } from 'react';
 import Layout from './Layout';
 import RoadmapView from './RoadmapView';
 import Dashboard from './Dashboard';
+import CustomProblems from './CustomProblems';
 import { useProblems } from '../hooks/useProblems';
 import { useTimer } from '../hooks/useTimer';
 import { AppContext } from '../context/AppContext';
@@ -19,6 +20,7 @@ export default function App() {
           <Route path="/" element={<Layout />}>
             <Route index element={<RoadmapView />} />
             <Route path="dashboard" element={<Dashboard />} />
+            <Route path="custom" element={<CustomProblems />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Route>
         </Routes>

@@ -38,8 +38,22 @@ function TogglePill({ label, title, isActive, color, onClick }) {
   );
 }
 
+const KNOWN_SOURCES = new Set(SOURCE_OPTIONS.map(s => s.key));
+
 export default function FilterBar() {
-  const { filters, updateFilters, topics, settings, updateSettings } = useApp();
+  const { filters, updateFilters, topics, settings, updateSettings, allSources } = useApp();
+
+  // Add custom source tags dynamically
+  const customSourceOptions = allSources
+    .filter(s => !KNOWN_SOURCES.has(s))
+    .map(s => ({
+      key: s,
+      label: s,
+      title: s,
+      color: 'bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-400'
+    }));
+
+  const combinedSourceOptions = [...SOURCE_OPTIONS, ...customSourceOptions];
 
   const toggleFilter = (type, value) => {
     const current = filters[type];
@@ -84,7 +98,7 @@ export default function FilterBar() {
       {/* Source Filters */}
       <div className="flex flex-wrap gap-1.5">
         <span className="text-xs text-gray-500 dark:text-gray-400 self-center mr-1">Sources:</span>
-        {SOURCE_OPTIONS.map(({ key, label, title, color }) => (
+        {combinedSourceOptions.map(({ key, label, title, color }) => (
           <TogglePill
             key={key}
             label={label}

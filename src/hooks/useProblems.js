@@ -1,6 +1,7 @@
 import { useState, useCallback, useMemo, useEffect } from 'react';
 import seedData from '../data/seedData.json';
-import { loadUserProgress, saveUserProgress, loadSettings, saveSettings, loadStats, saveStats, getDefaultSettings, getDefaultStats } from '../utils/storage';
+import { loadUserProgress, saveUserProgress, loadSettings, saveSettings, loadStats, saveStats, loadCustomProblems, saveCustomProblems, generateId, getDefaultSettings, getDefaultStats } from '../utils/storage';
+import { assignWave } from '../utils/waveAssignment';
 import { formatDate, isPastDue } from '../utils/dateUtils';
 import { getNewReviewState } from '../utils/spacedRepetition';
 
@@ -15,15 +16,28 @@ export function useProblems() {
   const [userProgress, setUserProgress] = useState(() => loadUserProgress());
   const [settings, setSettings] = useState(() => loadSettings());
   const [stats, setStats] = useState(() => loadStats());
+  const [customProblems, setCustomProblems] = useState(() => loadCustomProblems());
   const [filters, setFilters] = useState(defaultFilters);
 
-  const problems = seedData.problems;
   const topics = seedData.topics;
+
+  // Merge seed data with custom problems
+  const problems = useMemo(() => {
+    return [...seedData.problems, ...customProblems];
+  }, [customProblems]);
+
+  // Collect all unique source keys (including custom ones)
+  const allSources = useMemo(() => {
+    const sourceSet = new Set();
+    problems.forEach(p => p.sources.forEach(s => sourceSet.add(s)));
+    return [...sourceSet];
+  }, [problems]);
 
   // Persist to localStorage on changes
   useEffect(() => { saveUserProgress(userProgress); }, [userProgress]);
   useEffect(() => { saveSettings(settings); }, [settings]);
   useEffect(() => { saveStats(stats); }, [stats]);
+  useEffect(() => { saveCustomProblems(customProblems); }, [customProblems]);
 
   const getStatus = useCallback((problemId) => {
     const progress = userProgress[problemId];
@@ -185,6 +199,59 @@ export function useProblems() {
     }));
   }, []);
 
+  // Custom problem management
+  const addCustomProblem = useCallback(({ leetcodeNumber, title, url, difficulty, topic, patterns, sources, neetcodeVideo }) => {
+    const { wave, waveName } = assignWave(topic, difficulty);
+    // Place custom problems at end of their wave for roadmapOrder
+    const maxOrder = problems.filter(p => p.wave === wave).reduce((max, p) => Math.max(max, p.roadmapOrder || 0), 0);
+    const maxTopicOrder = problems.filter(p => p.topic === topic).reduce((max, p) => Math.max(max, p.topicOrder || 0), 0);
+
+    const newProblem = {
+      id: generateId(),
+      leetcodeNumber: leetcodeNumber || 0,
+      title,
+      url: url || `https://leetcode.com/problems/${title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}/`,
+      difficulty,
+      topic,
+      patterns: patterns || [],
+      sources: sources || [],
+      neetcodeVideo: neetcodeVideo || null,
+      algomapDifficultyScore: null,
+      topicOrder: maxTopicOrder + 1,
+      roadmapOrder: maxOrder + 1,
+      wave,
+      waveName,
+      isCustom: true
+    };
+
+    setCustomProblems(prev => [...prev, newProblem]);
+    return newProblem;
+  }, [problems]);
+
+  const updateCustomProblem = useCallback((id, updates) => {
+    setCustomProblems(prev => prev.map(p => {
+      if (p.id !== id) return p;
+      const updated = { ...p, ...updates };
+      // Recalculate wave if topic or difficulty changed
+      if (updates.topic || updates.difficulty) {
+        const { wave, waveName } = assignWave(updated.topic, updated.difficulty);
+        updated.wave = wave;
+        updated.waveName = waveName;
+      }
+      return updated;
+    }));
+  }, []);
+
+  const deleteCustomProblem = useCallback((id) => {
+    setCustomProblems(prev => prev.filter(p => p.id !== id));
+    // Clean up any progress data for this problem
+    setUserProgress(prev => {
+      const updated = { ...prev };
+      delete updated[id];
+      return updated;
+    });
+  }, []);
+
   const updateSettings = useCallback((newSettings) => {
     setSettings(prev => ({ ...prev, ...newSettings }));
   }, []);
@@ -209,6 +276,11 @@ export function useProblems() {
     resetProblem,
     resetAllProgress,
     updateNotes,
+    customProblems,
+    addCustomProblem,
+    updateCustomProblem,
+    deleteCustomProblem,
+    allSources,
     updateSettings,
     updateFilters
   };

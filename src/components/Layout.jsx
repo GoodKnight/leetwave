@@ -40,6 +40,18 @@ export default function Layout() {
                 >
                   Dashboard
                 </NavLink>
+                <NavLink
+                  to="/custom"
+                  className={({ isActive }) =>
+                    `px-3 py-2 rounded-md text-sm font-medium transition-colors ${
+                      isActive
+                        ? 'bg-indigo-100 dark:bg-indigo-900/50 text-indigo-700 dark:text-indigo-300'
+                        : 'text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700'
+                    }`
+                  }
+                >
+                  Custom
+                </NavLink>
               </div>
             </div>
             <div className="flex items-center gap-4">

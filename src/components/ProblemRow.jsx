@@ -97,6 +97,11 @@ export default function ProblemRow({ problem }) {
               <span className="text-gray-400 dark:text-gray-500">#{problem.leetcodeNumber}</span>{' '}
               {problem.title}
             </a>
+            {problem.isCustom && (
+              <span className="flex-shrink-0 px-1.5 py-0.5 rounded text-[10px] font-bold bg-indigo-100 text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-400">
+                Custom
+              </span>
+            )}
             {isHighPriority && (
               <span className="flex-shrink-0 px-1.5 py-0.5 rounded text-[10px] font-bold bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-400">
                 HOT
