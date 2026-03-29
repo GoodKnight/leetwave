@@ -29,7 +29,7 @@ function RevealableNotes({ notes }) {
 }
 
 export default function NextProblem() {
-  const { nextProblem, timer, userProgress } = useApp();
+  const { nextProblem, timer, userProgress, delayProblem } = useApp();
 
   if (!nextProblem) {
     return (
@@ -99,12 +99,20 @@ export default function NextProblem() {
           {isReview && progress?.notes && <RevealableNotes notes={progress.notes} />}
         </div>
         {!timer.isRunning && (
-          <button
-            onClick={handleStart}
-            className="px-5 py-2.5 rounded-lg font-medium bg-indigo-600 text-white hover:bg-indigo-700 transition-colors shadow-lg shadow-indigo-600/20"
-          >
-            Start
-          </button>
+          <div className="flex flex-col gap-2">
+            <button
+              onClick={handleStart}
+              className="px-5 py-2.5 rounded-lg font-medium bg-indigo-600 text-white hover:bg-indigo-700 transition-colors shadow-lg shadow-indigo-600/20"
+            >
+              Start
+            </button>
+            <button
+              onClick={() => delayProblem(problem.id)}
+              className="px-5 py-2 rounded-lg text-sm font-medium text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+            >
+              Later
+            </button>
+          </div>
         )}
       </div>
     </div>

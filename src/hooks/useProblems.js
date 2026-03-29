@@ -18,6 +18,7 @@ export function useProblems() {
   const [stats, setStats] = useState(() => loadStats());
   const [customProblems, setCustomProblems] = useState(() => loadCustomProblems());
   const [filters, setFilters] = useState(defaultFilters);
+  const [laterCounts, setLaterCounts] = useState({});
 
   const topics = seedData.topics;
 
@@ -94,10 +95,13 @@ export function useProblems() {
     });
   }, [problems, userProgress]);
 
-  // Next problem (review first, then next unsolved)
+  // Next problem (review first, then next unsolved — skip delayed problems)
   const nextProblem = useMemo(() => {
-    if (reviewDue.length > 0) {
-      return { problem: reviewDue[0], isReview: true };
+    const isDelayed = (id) => (laterCounts[id] || 0) > 0;
+
+    const availableReviews = reviewDue.filter(p => !isDelayed(p.id));
+    if (availableReviews.length > 0) {
+      return { problem: availableReviews[0], isReview: true };
     }
 
     const allSorted = [...problems];
@@ -115,9 +119,9 @@ export function useProblems() {
       allSorted.sort((a, b) => a.roadmapOrder - b.roadmapOrder);
     }
 
-    const next = allSorted.find(p => getStatus(p.id) === 'unsolved');
+    const next = allSorted.find(p => getStatus(p.id) === 'unsolved' && !isDelayed(p.id));
     return next ? { problem: next, isReview: false } : null;
-  }, [problems, userProgress, settings.studyMode, reviewDue, getStatus, topics]);
+  }, [problems, userProgress, settings.studyMode, reviewDue, getStatus, topics, laterCounts]);
 
   // Complete a problem
   const completeProblem = useCallback((problemId, { rating, timeSpent, timeEdited, notes, gaveUp, autoSuggested }) => {
@@ -171,6 +175,20 @@ export function useProblems() {
         streakLastDate: today
       };
     });
+
+    // Decrement all active later counts
+    setLaterCounts(prev => {
+      const updated = {};
+      for (const [id, count] of Object.entries(prev)) {
+        if (count > 1) updated[id] = count - 1;
+      }
+      return updated;
+    });
+  }, []);
+
+  // Delay a problem by N completions
+  const delayProblem = useCallback((problemId, count = 3) => {
+    setLaterCounts(prev => ({ ...prev, [problemId]: count }));
   }, []);
 
   // Reset a single problem back to unsolved
@@ -273,6 +291,7 @@ export function useProblems() {
     reviewDue,
     getStatus,
     completeProblem,
+    delayProblem,
     resetProblem,
     resetAllProgress,
     updateNotes,
